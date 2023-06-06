@@ -46,6 +46,9 @@
     background-size: contain;
     background-image: url('../img/icons/arrow-top.svg');
     transition: .25s;
+    rotate: 180deg;
+    margin: auto 0 auto 1rem;
+    margin-bottom: .590rems;
 }
 
 .acordeon.open .trigger::after {
